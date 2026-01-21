@@ -1,0 +1,57 @@
+[
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\"",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_codestartbranch.asm"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_cputimers.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_defaultisr.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_dma.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_globalvariabledefs.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_gpio.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_piectrl.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_pievect.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_sysctrl.c"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\"",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/f28004x_usdelay.asm"
+   },
+   {
+      "directory" : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/CPU1_RAM",
+      "command"   : "clang++ -I\"C:/Users/RDP/workspace_ccstheia/led_ex1_blinky\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/common/include/\" -I\"C:/ti/c2000/C2000Ware_6_00_01_00/device_support/f28004x/headers/include/\" -I\"C:/ti/ccs2040/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -xc",
+      "file"      : "C:/Users/RDP/workspace_ccstheia/led_ex1_blinky/led_ex1_blinky.c"
+   }
+]
